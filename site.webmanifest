@@ -1,20 +1,20 @@
 {
-    "name": "Ja\u0142\u00f3wka - odpocznij na Podlasiu",
-    "short_name": "Ja\u0142\u00f3wka - odpocznij na Podlasiu",
+    "name": "Ja\u0142\u00f3wka \u2013 odpocznij na Podlasiu",
+    "short_name": "Ja\u0142\u00f3wka \u2013 odpocznij na Podlasiu",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/android-chrome-192x192.png?v=00BJo52q95",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "/android-chrome-512x512.png?v=00BJo52q95",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#ececec",
-    "background_color": "#ececec",
+    "theme_color": "#c3c28f",
+    "background_color": "#c3c28f",
     "start_url": "https://odpocznijjalowka.eu/",
     "display": "standalone"
 }
