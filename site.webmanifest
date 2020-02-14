@@ -1,6 +1,6 @@
 {
-    "name": "Ja\u0142\u00f3wka",
-    "short_name": "Ja\u0142\u00f3wka",
+    "name": "Ja\u0142\u00f3wka - odpocznij na Podlasiu",
+    "short_name": "Ja\u0142\u00f3wka - odpocznij na Podlasiu",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#d0d0d0",
-    "background_color": "#d0d0d0",
+    "theme_color": "#dadada",
+    "background_color": "#dadada",
     "display": "standalone"
 }
